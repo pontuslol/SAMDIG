@@ -1,0 +1,15 @@
+#searchbar {
+    width: 80%;
+
+}
+
+/* When the input field gets focus, change its width to 100% */
+
+footer {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  height: 70px;
+  background-color: lightgrey;
+  width: 100%;
+}
